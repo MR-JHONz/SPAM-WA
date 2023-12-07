@@ -16,3 +16,5 @@ git clone https://github.com/MR-JHONz/SPAM-WA
 
 cd SPAM-WA
 
+python run-Enc.py
+
